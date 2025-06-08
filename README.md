@@ -1,4 +1,4 @@
-# Code Generation
+# Code Generation - Compiler Construction (MC921)
 
 The objective of this assignment is transform the AST into uCIR and to run the uCIR with the interpreter.
 Further instructions can be seen in this
